@@ -1,0 +1,11 @@
+article{
+    color: red;
+    background-color: aquamarine;
+}
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    font-weight: 800;
+}

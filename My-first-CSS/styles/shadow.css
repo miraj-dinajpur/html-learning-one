@@ -1,0 +1,21 @@
+.Blog{
+    background-color: aquamarine;
+    width: 500px;
+    margin: 50px;
+    box-shadow: 60px 30px 140px green;  
+}
+header{
+    background-color: antiquewhite;
+    width: 800px;
+    height: 600px;
+    background-image: url('../images/myimg.jpg'); 
+    background-repeat: no-repeat; 
+    background-position: center;  
+    /* background-size: cover; */
+    font-size: 24px;
+    background-position: center ;
+}
+header h1{
+    text-align: center;
+    font-size: 32px;
+}
